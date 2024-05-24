@@ -5,3 +5,5 @@ A quick portfolio project using the public SpaceX Launches API, as well as the O
 Built with React, NextJS, Tailwind and shadcn/ui.
 
 View here: [https://space-kkx8lpo1g-trentphotos-projects.vercel.app/](https://space-kkx8lpo1g-trentphotos-projects.vercel.app/)
+
+Cheers!
